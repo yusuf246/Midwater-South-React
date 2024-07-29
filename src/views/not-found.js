@@ -1,4 +1,8 @@
-const NotFound = (props) => {
+import React from 'react'
+import { Helmet } from 'react-helmet'
+import './not-found.css'
+
+const NotFound1 = (props) => {
   return (
     <div className="not-found1-container">
       <Helmet>
@@ -14,7 +18,7 @@ const NotFound = (props) => {
         </h2>
       </div>
     </div>
-  );
+  )
 }
 
-export default NotFound;
+export default NotFound1

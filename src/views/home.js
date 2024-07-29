@@ -21,8 +21,8 @@ const Home = (props) => {
       </Helmet>
       <Navbar></Navbar>
       <Hero
-        action1="Midwater South\n"
-        action2="Networld Pools\n"
+        action1="Midwater South"
+        action2="Networld Pools"
         content1="Purifying Water, Perfecting Pools"
         heading1="Midwater South"
         image1Src="https://images.unsplash.com/photo-1485874132365-6412a19f94ba?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyMTg5MzgyMnw&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080"
