@@ -1,0 +1,7 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-text1 {
+  display: inline-block;
+}
